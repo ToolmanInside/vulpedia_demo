@@ -24,6 +24,6 @@ The output will be like:
 
 ![](readme_img/demo.png)
 
-The file named with "tn" means that the file is usually incorrectly reported as vulnerability by detectors. And the file with suffix "tp" means that the file is truely with vulnerability.
+The files named with "tn" mean that the files have no vulnerabilities. However, they are usually incorrectly reported as vulnerability by detectors. And the file with suffix "tp" means that the file is truely with vulnerability.
 
 From the results, we can find that Vulpedia has best performance in distinguishing non-vulnerable file from all candidates.
